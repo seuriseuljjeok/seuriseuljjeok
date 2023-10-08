@@ -1,10 +1,10 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Hello%20I'm%20Seuri!&fontSize=70)
 <div><h2>🐰 스리입니다! 🐰</h2></div>
-<div align = right> <a href="https://www.instagram.com/dev_choni/">
+<div align = right> <a href="https://www.instagram.com/h_overthemoon_/">
     <img 
         src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://www.instagram.com/h_overthemoon/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:ryr0121@gmail.com">
+</a> <a href="mailto:heeseul09@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:peony491@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -12,7 +12,7 @@
 </div>
 👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br>
   💻 <b>Major</b> : Convergence Software Engineering<br>
-  🌱 I'm studying to be a <b>Android Developer</b>. 🌱 <br>
+  🌱 I'm studying to be a <b>Mobile App Developer</b>. 🌱 <br>
   <br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuriseuljjeok&layout=compact&theme=dracula)](https://github.com/seuriseuljjeok/seuriseuljjeok) 
