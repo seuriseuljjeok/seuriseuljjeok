@@ -12,7 +12,7 @@
 </div>
 👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br>
   💻 <b>Major</b> : Convergence Software Engineering<br>
-  🌱 I'm studying to be a <b>Mobile App Developer</b>. 🌱 <br>
+  🌱 I'm studying to be a <b>iOS App Developer</b>. 🌱 <br>
   <br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuriseuljjeok&layout=compact&theme=dracula)](https://github.com/seuriseuljjeok/seuriseuljjeok) 
