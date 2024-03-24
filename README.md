@@ -10,9 +10,15 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
-👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br>
-  💻 <b>Major</b> : Convergence Software Engineering<br>
-  🌱 I'm studying to be a <b>iOS App Developer</b>. 🌱 <br>
+- 🏫 Myongji University - Convergence Software Engineering <br>
+- 🌿 UMC 4rd Android Part. 2023.03 ~ 2023.08 <br>
+- 🍏 SOPT 33th iOS Part. 2023.09 ~ 2024.02 <br>
+- 🍎 SOPT 34th iOS Part. 2023.03 ~ 
+<br>
+<br>
+
+  🌱 I'm studying to be a <b>iOS App Developer</b>. 🌱 
+  <br>
   <br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuriseuljjeok&layout=compact&theme=dracula)](https://github.com/seuriseuljjeok/seuriseuljjeok) 
