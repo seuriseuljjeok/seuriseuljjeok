@@ -13,11 +13,11 @@
 - 🏫 Myongji University - Convergence Software Engineering <br>
 - 🌿 UMC 4rd Android Part. 2023.03 ~ 2023.08 <br>
 - 🍏 SOPT 33th iOS Part. 2023.09 ~ 2024.02 <br>
-- 🍎 SOPT 34th iOS Part. 2023.03 ~ 
+- 🍎 SOPT 34th iOS Part. 2023.03 ~ 2024.07 
 <br>
 <br>
 
-🌱 I'm studying to be a <b>iOS App Developer</b>. 🌱 
+🌱 I'm studying to be a <b>iOS Developer</b>. 🌱 
 <br>
 
 <div align=center><h3>💻 Learning 💻</h3>
